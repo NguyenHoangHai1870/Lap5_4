@@ -1,4 +1,14 @@
 
+├── data/                                # Thư mục chứa dữ liệu (Dataset)
+│  
+├── Lab5_part4.pdf                      # Thư mục chứa Jupyter Notebooks (Mã nguồn chính)
+│                
+│
+├── README.md                           # File báo cáo chi tiết này
+│
+├── part4                                # Mã nguồn Python (Modules/Classes tái sử dụng)
+│   
+├── .gitignore                           # File cấu hình bỏ qua file rác (tmp, __pycache__
 # 1. Mục tiêu
 
 Trong phần này, mục tiêu là xây dựng một mô hình Nhận dạng Thực thể Tên (Named Entity Recognition – NER) sử dụng:
